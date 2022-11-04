@@ -29,4 +29,4 @@ $ make clean
 ```
  
 ## Date
-Friday, November 4, 2022.
+2022.
